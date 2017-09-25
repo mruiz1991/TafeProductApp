@@ -29,3 +29,15 @@ D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductM
 F:\TAFE\5TSD\StudentFiles_170924\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
 F:\TAFE\5TSD\StudentFiles_170924\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 F:\TAFE\5TSD\StudentFiles_170924\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\MyProduct\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\MyProduct\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\MyProduct\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
