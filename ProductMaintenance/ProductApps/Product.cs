@@ -70,5 +70,10 @@ namespace ProductApps
         {
             TotalPayment = (Price * Quantity) + 25;
         }
+
+        public void calTotalPaymentWithDeliveryWraping ()
+        {
+            TotalPayment = (Price * Quantity) + 25 +5;
+        }
     }
 }
